@@ -2,7 +2,7 @@
 Dada uma matriz N*m alocada dinamicamente.Gere uma nova matriz N*m que é o resultado de uma filtragem por uma matriz chamada de kernel 
 que deve possuir  qualque desses tamanhos 3x3 , 5x5 ou 7x7 e a matriz deverá ser preencida com valores de 0 - 255
 */
-
+// teste
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
